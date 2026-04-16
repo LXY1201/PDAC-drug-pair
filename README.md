@@ -13,8 +13,10 @@ The current repository contains the source code for identifying ferroptosis-rela
 
 # Installation
 
-The code has been tested with Python 3.9 and R 4.4.1 on Ubuntu 22.4 and includes libraries such as torch, torch_geometric, numpy, networkx, scikit-learn, among others.
+The code has been tested with Python 3.9.7 and R 4.4.1 on Ubuntu 22.4 and includes libraries such as torch, torch_geometric, numpy, networkx, scikit-learn, among others.
 
+    conda create -n FeNetDP python=3.9.7 r-base=4.4.1 -y
+    conda activate FeNetDP
     pip install -r requirements.txt 
 
 It typically takes a few minutes.
