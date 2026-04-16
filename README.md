@@ -35,7 +35,7 @@ PPI networks:
 
 This study employs a stepwise computational pipeline integrating survival analysis, robustness validation, network-based modeling, and AI-driven drug combination prediction.
 
-    cd code/
+    cd code
 
 ## 1. Cox Regression Analysis
 
